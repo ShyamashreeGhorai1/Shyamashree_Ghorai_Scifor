@@ -6,7 +6,8 @@
                       the help of natural language processing and machine learning algorithm. Here I find 
                       out the sentiment, polarity and subjectivity of the tweet.
                       
-                ![image](https://github.com/ShyamashreeGhorai1/Shyamashree_Ghorai_Scifor/assets/131132617/ce0a4c00-e4e6-4c4e-879d-90e905c361c8)
+               ![image](https://github.com/ShyamashreeGhorai1/Shyamashree_Ghorai_Scifor/assets/131132617/cb53c400-d43e-43f9-94cd-120880914324)
+
 
    ### Model :
                    I used Random Forest Classifier for classification task as it can handle high-dimensional
